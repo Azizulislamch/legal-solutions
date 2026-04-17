@@ -33,6 +33,10 @@ GitHub Repo Link: https://github.com/Azizulislamch/legal-solutions
 - **Google Fonts:** Specifically Cormorant Garamond for that classic legal aesthetic.
 
 ---
+## Screenshot
+<img width="1516" height="789" alt="image" src="https://github.com/user-attachments/assets/5b1f6038-1c03-4f82-b718-e7095f376f35" />
+
+---
 
 ## 📂 Project Structure
 
